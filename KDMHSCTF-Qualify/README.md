@@ -1,4 +1,4 @@
-KDMHSCTF Write-Ups
+KDMHSCTF 2018 Write-Ups
 ======================
 gtg7784(19위)
 ----------------------
