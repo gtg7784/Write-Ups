@@ -51,7 +51,7 @@ Network 3 - Network
 
 구글에 2018 network attack, owasp network attack 등등 검색하다가 맞췄다.
 
-~~원래는 <pre><code>network3_a7f21386bdc8f93c8df5c3ffcb3d19ba.cap</code></pre> 이 파일 wireshark로 따서 맞춰야 되는건데 따긴했는데 뭔내용인지 몰라서 패스~~~
+~~원래는~~ <pre><code>~~network3_a7f21386bdc8f93c8df5c3ffcb3d19ba.cap~~</code></pre> ~~이 파일 wireshark로 따서 맞춰야 되는건데 따긴했는데 뭔내용인지 몰라서 패스~~~
 
  **FLAG : port scan**
 
